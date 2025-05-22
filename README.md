@@ -20,27 +20,30 @@ This is a command-line implementation of the classic **Tic-Tac-Toe** game where 
    python filename.py
    A reference board will display positions (0–8).
 
-The human player (O) goes first by entering a number corresponding to the board position.
+2. A reference board will display positions (0–8).
 
-The AI (X) then takes its turn automatically.
+3. The human player (O) goes first by entering a number corresponding to the board position.
 
-The game continues until there's a winner or a draw.
+4. The AI (X) then takes its turn automatically.
 
-🧠 Algorithms Used
+5. The game continues until there's a winner or a draw.
+---
+
+## 🧠 Algorithms Used
 Minimax: Explores all possible moves to find the optimal outcome.
 
 Alpha-Beta Pruning: Optimized version of Minimax that eliminates unnecessary branches, improving performance.
 
-⏱️ Performance Example
+---
+## ⏱️ Performance Example
 
 Minimax performance:
    Time taken: 0.003214 seconds
 
 Alpha-Beta Pruning performance:
    Time taken: 0.000976 seconds
+---   
 ⚙️ Requirements
 Python 3.x
-
 No external libraries are needed
-
 
