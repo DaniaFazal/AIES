@@ -31,13 +31,13 @@ Minimax: Explores all possible moves to find the optimal outcome.
 Alpha-Beta Pruning: Optimized version of Minimax that eliminates unnecessary branches, improving performance.
 
 Performance Example
-Minimax performance:
-Time taken: 0.003214 seconds
+   Minimax performance:
+      Time taken: 0.003214 seconds
 
-Alpha-Beta Pruning performance:
-Time taken: 0.000976 seconds
+   Alpha-Beta Pruning performance:
+      Time taken: 0.000976 seconds
 
-Requirements
-  Python 3.x
-No external libraries are needed.
+Requirements:
+   Python 3.x
+   No external libraries are needed.
 
