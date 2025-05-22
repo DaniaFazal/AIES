@@ -18,7 +18,6 @@ This is a command-line implementation of the classic **Tic-Tac-Toe** game where 
 1. Run the script using Python 3:
    ```bash
    python filename.py
-   A reference board will display positions (0–8).
 
 2. A reference board will display positions (0–8).
 
