@@ -37,7 +37,7 @@ Performance Example
    Alpha-Beta Pruning performance:
       Time taken: 0.000976 seconds
 
-Requirements:
+⚙️ Requirements
    Python 3.x
-   No external libraries are needed.
+   No external libraries are needed
 
