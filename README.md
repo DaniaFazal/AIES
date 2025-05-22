@@ -37,13 +37,14 @@ Alpha-Beta Pruning: Optimized version of Minimax that eliminates unnecessary bra
 ---
 ## ⏱️ Performance Example
 
-Minimax performance:
-   Time taken: 0.003214 seconds
-
-Alpha-Beta Pruning performance:
-   Time taken: 0.000976 seconds
+- Minimax performance:
+   - Time taken: 0.003214 seconds
+   
+- Alpha-Beta Pruning performance:
+   - Time taken: 0.000976 seconds
+   
 ---   
 ⚙️ Requirements
-Python 3.x
-No external libraries are needed
+ -  Python 3.x
+ - No external libraries are needed
 
